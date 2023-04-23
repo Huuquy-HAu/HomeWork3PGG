@@ -1,0 +1,7 @@
+label {
+    cursor: pointer;
+}
+
+label:hover {
+    background-color: #ccc;
+}
